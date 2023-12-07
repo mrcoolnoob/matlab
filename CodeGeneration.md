@@ -40,4 +40,4 @@ Source: Conversation with Bing, 12/7/2023
 (7) undefined. https://www.mathworks.com/help/releases/R2018b/rtw/ug/relocate-code-to-another-development-environment.html.
 
 
-## [IMPORTANT LINK]([url](https://www.mathworks.com/matlabcentral/answers/509603-how-to-compile-windows-generated-code-on-a-linux-machine)https://www.mathworks.com/matlabcentral/answers/509603-how-to-compile-windows-generated-code-on-a-linux-machine)
+## [IMPORTANT LINK](https://www.mathworks.com/matlabcentral/answers/509603-how-to-compile-windows-generated-code-on-a-linux-machine)
